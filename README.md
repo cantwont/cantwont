@@ -1,3 +1,1 @@
-## x1234
-
-[![wakatime](https://wakatime.com/badge/user/8779fb58-4766-40ff-aa2a-f08401e0dfb8.svg)](https://wakatime.com/@8779fb58-4766-40ff-aa2a-f08401e0dfb8)
+[![cantwont's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=99&layout=compact&langs_count=10&card_width=320)](https://github.com/anuraghazra/github-readme-stats)
